@@ -1,0 +1,14 @@
+{
+    "name": "unity/php-oop-project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sergey"
+        }
+    ],
+    "require": {}
+}
